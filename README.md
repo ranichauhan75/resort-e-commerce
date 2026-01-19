@@ -137,3 +137,11 @@ Follow this README to understand:
 
 For detailed implementation, check the respective PHP files inside the project directories.
 
+---
+
+## 🧑‍💻 Author
+** RANI CHAUHAN **  
+📧 [ranichauhan124@gmail.com](ranichauhan124@gmail.com)  
+🌐 [GitHub Profile](https://github.com/ranichauhan75)
+
+---
