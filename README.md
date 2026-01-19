@@ -140,7 +140,7 @@ For detailed implementation, check the respective PHP files inside the project d
 ---
 
 ## 🧑‍💻 Author
-** RANI CHAUHAN **  
+**RANI CHAUHAN** <br>
 📧 [ranichauhan124@gmail.com](ranichauhan124@gmail.com)  
 🌐 [GitHub Profile](https://github.com/ranichauhan75)
 
